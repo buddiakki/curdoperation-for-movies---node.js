@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Hey Akhil",
+    "year": "2015",
+    "rating": "5",
+    "id": 1
+  },
+  {
+    "title": "jai simha",
+    "year": "2019",
+    "rating": "6",
+    "id": 2
+  },
+  {
+    "title": "Avatar",
+    "year": "2023",
+    "rating": "8",
+    "id": 3
+  }
+]
